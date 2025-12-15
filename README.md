@@ -36,18 +36,16 @@ Save Me is an Android-based women’s security application designed to provide i
 * `SharedPreferences`
 * Local data persistence for user and contact details
 
+
 <p align="center">
-  <img src="project%20report/Screenshot_20201114_185845_com.example.saveme.jpg" width="220"/>
-  <img src="project%20report/Screenshot_20201114_190126_com.example.saveme.jpg" width="220"/>
-</p>
-<p align="center">
-  <img src="project%20report/Screenshot_20201114_190139_com.android.contacts.jpg" width="220"/>
-  <img src="project%20report/Screenshot_20201114_190206_com.example.saveme.jpg" width="220"/>
+  <img src="project%20report/Screenshot_20201114_190206_com.example.saveme.jpg" width="32%"/>
+  <img src="project%20report/Screenshot_20201114_185845_com.example.saveme.jpg" width="32%"/>
+  <img src="project%20report/Screenshot_20201114_190126_com.example.saveme.jpg" width="32%"/>
 </p>
 
 <p align="center">
-  <img src="project%20report/Screenshot_20201114_195442_com.google.android.apps.messaging.jpg" width="220"/>
-  <img src="project%20report/Screenshot_20201114_204029_com.google.android.packageinstaller.jpg" width="220"/>
+  <img src="project%20report/Screenshot_20201114_190139_com.android.contacts.jpg" width="32%"/>
+  <img src="project%20report/Screenshot_20201114_195442_com.google.android.apps.messaging.jpg" width="32%"/>
+  <img src="project%20report/Screenshot_20201114_204029_com.google.android.packageinstaller.jpg" width="32%"/>
 </p>
-
 
