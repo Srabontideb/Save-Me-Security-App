@@ -36,5 +36,8 @@ Save Me is an Android-based women’s security application designed to provide i
 * `SharedPreferences`
 * Local data persistence for user and contact details
 
-![Emergency Screen](Screenshot_20201114_185845_com.example.saveme.jpg)
+<p align="center">
+  <img src="project%20report/Screenshot_20201114_185845_com.example.saveme.jpg" width="250"/>
+</p>
+
 
